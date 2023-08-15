@@ -4,7 +4,7 @@ Part 1:
 
 For this week’s mini-project, you will participate in this Kaggle competition:  
 
-Kaggle Competition: BBC News Classification 
+[Kaggle Competition: BBC News Classification ](https://www.kaggle.com/c/learn-ai-bbc/overview)
  [80 pts]
 
 This Kaggle competition is about categorizing news articles. You will use matrix factorization to predict the category and submit your notebook for peer evaluation. 
